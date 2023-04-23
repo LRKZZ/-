@@ -1,0 +1,15 @@
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\new.csproj.AssemblyReference.cache
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\new.AssemblyInfoInputs.cache
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\new.AssemblyInfo.cs
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\new.csproj.CoreCompileInputs.cache
+C:\Users\sashu\source\repos\new\new\bin\Debug\net6.0\new.exe
+C:\Users\sashu\source\repos\new\new\bin\Debug\net6.0\new.deps.json
+C:\Users\sashu\source\repos\new\new\bin\Debug\net6.0\new.runtimeconfig.json
+C:\Users\sashu\source\repos\new\new\bin\Debug\net6.0\new.dll
+C:\Users\sashu\source\repos\new\new\bin\Debug\net6.0\new.pdb
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\new.dll
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\refint\new.dll
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\new.pdb
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\new.genruntimeconfig.cache
+C:\Users\sashu\source\repos\new\new\obj\Debug\net6.0\ref\new.dll
